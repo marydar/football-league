@@ -1,0 +1,89 @@
+new player ArshiA 1 4 2 4
+new player sadegh 1 2 2 4
+new player haniye 1 5 1 4
+new player fateme 1 2 2 4
+new player qorban 1 2 3 4
+new player abbasi 1 4 2 2
+new player alikmr 1 2 2 3
+new player sadegh 1 4 2 2
+new player hamide 1 3 3 1
+new player karane 1 2 4 1
+new player vanaki 1 5 5 1
+
+new player Ammmrs 1 40 20 40
+new player sadmmm 1 20 20 40
+new player hmmman 1 50 10 40
+new player fdddat 1 20 20 40
+new player qmmmor 1 20 30 40
+new player mmmabb 1 40 20 20
+new player mmmali 1 20 20 30
+new player sammmd 1 40 20 20
+new player hmmmam 1 30 30 10
+new player kmmmar 1 20 40 10
+new player mmmvan 1 50 50 10
+
+new player ronaldo 1 14 32 24
+new player lemessi 1 12 32 24
+new player neymarj 1 15 31 24
+new player zelatan 1 12 32 24
+new player klmbabe 1 12 33 24
+new player levados 1 14 32 22
+new player benzema 1 12 32 23
+new player msallah 1 14 32 22
+new player mtaremi 1 13 33 21
+new player sazmoon 1 12 34 21
+new player alidaie 1 15 35 21
+
+new team t1 100
+new team t2 100
+
+buy 12 1
+buy 13 1
+buy 14 1
+buy 15 1
+buy 16 1
+buy 17 1
+buy 18 1
+buy 19 1
+buy 20 1
+buy 21 1
+buy 22 1
+
+buy 1 2
+buy 2 2
+buy 3 2
+buy 4 2
+buy 5 2
+buy 6 2
+buy 7 2
+buy 8 2
+buy 9 2
+buy 10 2
+buy 11 2
+
+
+new team t3 900
+
+buy 23 3
+buy 24 3
+buy 25 3
+buy 26 3
+buy 27 3
+buy 28 3
+buy 29 3
+buy 30 3
+buy 31 3
+buy 32 3
+buy 33 3
+
+BeginLeague
+
+Players Speed
+
+Players Defense
+
+Players Finishing
+
+Players Price
+
+end
